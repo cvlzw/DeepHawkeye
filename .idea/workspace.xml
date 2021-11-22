@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60466277-2700-4b62-8886-5a2a9cf76643" name="Default Changelist" comment="v1">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/carpet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/grid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/hazelnut.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/leather.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/patchcore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/screw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wide_res_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trt_tools/Tensorrt_deployment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trt_tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trt_tools/export_onnx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trt_tools/image_batcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trt_tools/trt_engine_infer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trt_tools/trt_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trt_tools/trt_wide_res_model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21DzlGH2jxDvTaQKDQ0aOcowmhw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trt_tools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trt_tools" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60466277-2700-4b62-8886-5a2a9cf76643" name="Default Changelist" comment="" />
+      <created>1637490594618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637490594618</updated>
+      <workItem from="1637490595884" duration="22524000" />
+      <workItem from="1637579583855" duration="1850000" />
+      <workItem from="1637582366191" duration="1800000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of github.com:tbcvContributor/DeepHawkeye&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开始的行将被忽略，而空的提交说明将终止提交。">
+      <created>1637580296340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637580296340</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge branch 'master' of github.com:tbcvContributor/DeepHawkeye&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开始的行将被忽略，而空的提交说明将终止提交。">
+      <created>1637580367040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637580367040</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge branch 'master' of github.com:tbcvContributor/DeepHawkeye&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开始的行将被忽略，而空的提交说明将终止提交。&#10;v1">
+      <created>1637580503910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637580503910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge branch 'master' of github.com:tbcvContributor/DeepHawkeye&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开始的行将被忽略，而空的提交说明将终止提交。&#10;v1">
+      <created>1637582951637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637582951637</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge branch 'master' of github.com:tbcvContributor/DeepHawkeye&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开始的行将被忽略，而空的提交说明将终止提交。&#10;v1">
+      <created>1637583288201</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637583288201</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge branch 'master' of github.com:tbcvContributor/DeepHawkeye&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开始的行将被忽略，而空的提交说明将终止提交。&#10;v1">
+      <created>1637583528352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637583528352</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v1">
+      <created>1637583820520</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637583820520</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of github.com:tbcvContributor/DeepHawkeye&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开始的行将被忽略，而空的提交说明将终止提交。" />
+    <MESSAGE value="Merge branch 'master' of github.com:tbcvContributor/DeepHawkeye&#10;# 请输入一个提交信息以解释此合并的必要性，尤其是将一个更新后的上游分支&#10;# 合并到主题分支。&#10;#&#10;# 以 '#' 开始的行将被忽略，而空的提交说明将终止提交。&#10;v1" />
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2749" y="350" width="253" height="304" key="#Notifications" timestamp="1637582665898">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2749" y="350" width="253" height="304" key="#Notifications/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637582665898" />
+    <state x="2564" y="290" width="683" height="423" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637511721936">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2564" y="290" width="683" height="423" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637511721936" />
+    <state x="2613" y="244" width="526" height="516" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637583435426">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="244" width="526" height="516" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637583435426" />
+    <state x="2055" y="200" width="1720" height="795" key="DiffContextDialog" timestamp="1637582118733">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2055" y="200" width="1720" height="795" key="DiffContextDialog/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637582118733" />
+    <state x="2648" y="238" width="455" height="527" key="FileChooserDialogImpl" timestamp="1637582440809">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2648" y="238" width="455" height="527" key="FileChooserDialogImpl/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637582440809" />
+    <state x="2718" y="392" width="585" height="219" key="Github.ShareDialog" timestamp="1637584057430">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2718" y="392" width="585" height="219" key="Github.ShareDialog/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637584057430" />
+    <state x="2628" y="125" width="495" height="754" key="RollbackChangesDialog" timestamp="1637582846843">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2628" y="125" width="495" height="754" key="RollbackChangesDialog/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637582846843" />
+    <state x="2361" y="132" width="1037" height="739" key="SettingsEditor" timestamp="1637582537205">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2361" y="132" width="1037" height="739" key="SettingsEditor/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637582537205" />
+    <state x="2475" y="232" width="802" height="540" key="Vcs.Push.Dialog.v2" timestamp="1637583838913">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="232" width="802" height="540" key="Vcs.Push.Dialog.v2/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637583838913" />
+    <state x="2649" y="407" width="461" height="189" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637578770592">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2649" y="407" width="461" height="189" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637578770592" />
+    <state x="2595" y="374" width="562" height="255" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1637583993956">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2595" y="374" width="562" height="255" key="git4idea.remote.GitConfigureRemotesDialog/0.27.1920.968/1920.0.1920.1080@1920.0.1920.1080" timestamp="1637583993956" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+numpy
+torch>=1.7
+opencv_python
+torchvision
