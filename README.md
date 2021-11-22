@@ -37,8 +37,12 @@ Reference [PatchCore](https://arxiv.org/abs/2106.08265) anomaly detection model
 ## Installation
 ```bash
 $ git clone https://github.com/tbcvContributor/DeepHawkeye.git
-$ cd DeepHawkeye
-$ pip install -r requirements.txt
+$ pip install opencv-python
+$ pip install scipy
+
+# pytorch
+$ pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
+
 
 #install faiss
 # CPU-only version（currently available on Linux, OSX, and Windows）
@@ -143,7 +147,7 @@ result format：{filename}_{score}.jpg
 
 This project is released under the [Apache 2.0 license](LICENSE).
 
-##Code Reference
+## Code Reference
 https://github.com/hcw-00/PatchCore_anomaly_detection
 embedding concat function :
 https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master

@@ -38,16 +38,20 @@ DeepHawkeye 是一个通过预训练神经网络来检测图像异常模式的�
 ## 安装
 ```bash
 $ git clone https://github.com/tbcvContributor/DeepHawkeye.git
-$ cd DeepHawkeye
-$ pip install -r requirements.txt
+$ pip install opencv-python
+$ pip install scipy
 
-#安装faiss
+# pytorch
+$ pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
+
+
+# 安装faiss
 # CPU-only version（currently available on Linux, OSX, and Windows）
 $ conda install -c pytorch faiss-cpu
 # GPU(+CPU) version （containing both CPU and GPU indices, is available on Linux systems）
 $ conda install -c pytorch faiss-gpu
 # or for a specific CUDA version
-$ conda install -c pytorch faiss-gpu cudatoolkit=10.2 # for CUDA 10.2 
+$ conda install -c pytorch faiss-gpu cudatoolkit=11.0 # for CUDA 10.2 
 ```
 
 ## 模型权重和demo数据
@@ -147,7 +151,7 @@ tips：
 
 该项目采用 [Apache 2.0 开源许可证](LICENSE)
 
-##Code Reference
+## Code Reference
 
 https://github.com/hcw-00/PatchCore_anomaly_detection
 
