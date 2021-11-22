@@ -18,7 +18,8 @@
 </div>
 
 [English](README.md) | 简体中文
-##简介
+
+## 简介
 DeepHawkeye 是一个通过预训练神经网络来检测图像异常模式的库
 
 参考自[PatchCore](https://arxiv.org/abs/2106.08265)
